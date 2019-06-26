@@ -1,0 +1,7 @@
+  [submodule "scatterplot"]
+	path = scatterplot
+	url = https://github.com/skrytskaya/scatterplot.git
+[submodule "client"]
+	path = client
+	url = https://github.com/skrytskaya/client.git
+
