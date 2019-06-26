@@ -1,4 +1,4 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/skrytskaya/client.git
-
+[submodule "client-scatterplot"]
+	path = client-scatterplot
+	url = https://github.com/skrytskaya/client-scatterplot.git
+	branch = master
